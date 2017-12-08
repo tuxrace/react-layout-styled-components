@@ -83,7 +83,7 @@ const Main = () => <div>
     </Row>
     <Row className="show-grid">
       <Col xs={12} md={12} className="centered"><LongTextSmall>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer.
 </LongTextSmall></Col>
     </Row>
     <Row className="show-grid">
@@ -113,7 +113,7 @@ const Main = () => <div>
     </Row>
     <Row className="show-grid">
       <Col xs={12} md={12} className="centered"><LongTextSmall>
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer.
 </LongTextSmall></Col>
     </Row>
     <Row className="show-grid">
