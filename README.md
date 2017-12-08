@@ -4,7 +4,7 @@
 
     npm install
     npm start
-    Open localhost:3005
+    Open http://localhost:3005
 
 ## Screenshot
 
