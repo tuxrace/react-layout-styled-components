@@ -7,7 +7,7 @@
     Open http://localhost:3005
     
 ## Test
-```json
+```
 {
   "listen": ":8124", 
   "flush_count": 10000, // check by \n char
